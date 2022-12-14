@@ -1,0 +1,23 @@
+{
+  "name": "src",
+  "version": "0.0.1",
+  "description": "Software de gestão de banho e tosa",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrpellegrino/zelloAppApi-backend.git"
+  },
+  "keywords": [
+    "App",
+    "petshop"
+  ],
+  "author": "Dayvson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrpellegrino/zelloAppApi-backend/issues"
+  },
+  "homepage": "https://github.com/mrpellegrino/zelloAppApi-backend#readme"
+}
